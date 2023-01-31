@@ -17,3 +17,5 @@ A simple starter template for blogs made with 11ty and SASS. Night mode ready ðŸ
 7. Host your project on [Netlify](https://www.netlify.com/)
 
 Thatâ€™s all!
+
+git push https://SuryaChandraTraders@github.com/SuryaChandraTraders/SuryaChandraTraders.git

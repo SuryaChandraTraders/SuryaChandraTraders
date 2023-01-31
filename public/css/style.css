@@ -57,6 +57,12 @@ body {
       border: none; }
       body nav .night-mode-btn svg {
         fill: #333333; }
+    body nav a {
+      margin-right: 2rem;
+      text-decoration: none;
+      color: #333333; }
+      body nav a:hover {
+        text-decoration: underline; }
   body main {
     width: 50%;
     margin-left: auto;

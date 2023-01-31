@@ -53,7 +53,7 @@ body {
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  
+
 
   nav {
     padding: 0.75rem;
@@ -75,6 +75,7 @@ body {
         margin-right: 2rem;
         text-decoration: none;
         color: $font-light-theme;
+
         &:hover {
           text-decoration: underline;
         }
@@ -92,8 +93,19 @@ body {
       background-color: transparent;
       border: none;
 
+
       svg {
         fill: $font-light-theme;
+      }
+    }
+
+    a {
+      margin-right: 2rem;
+      text-decoration: none;
+      color: $font-light-theme;
+
+      &:hover {
+        text-decoration: underline;
       }
     }
   }
@@ -106,7 +118,7 @@ body {
     a {
       color: #14847E;
       text-decoration: none;
-      
+
       &:hover {
         text-decoration: underline;
       }
@@ -121,7 +133,7 @@ body {
     a {
       color: #14847E;
       text-decoration: none;
-      
+
       &:hover {
         text-decoration: underline;
       }
@@ -137,9 +149,9 @@ body {
     gap: 1rem;
 
     a:hover {
-        text-decoration: none;
-      }
-    
+      text-decoration: none;
+    }
+
   }
 
   .blog-single {
@@ -194,7 +206,7 @@ body {
     font-size: 1.125rem;
     line-height: 1.75rem;
   }
-  
+
   .paragraph {
     text-align: justify;
   }
@@ -218,7 +230,7 @@ body {
     main {
       width: 90%;
     }
-  
+
     footer {
       width: 90%;
     }
